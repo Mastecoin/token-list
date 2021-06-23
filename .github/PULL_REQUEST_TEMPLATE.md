@@ -7,7 +7,7 @@ Please include change to the `src/tokens/solana.tokenlist.json` file in the PR
 At minimum each entry should have
 * Token Address: 
 * Token Name: 
-* Token Symbol: 
+* Token Symbol:MTL
 * Logo
 * Link to the official homepage of token:
 * Coingecko ID if available (https://www.coingecko.com/api/documentations/v3#/coins/get_coins__id_):
